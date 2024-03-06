@@ -3,7 +3,7 @@
 This projecy used the dataset on **Forge - PwC Switzerland Power BI Job Simulation** to perform data analysis using **Power BI**.
 
 Three areas are included:
-1. Customer Retention and Churn
+1. [Customer Retention and Churn](#Task-1-Customer-Retention-and-Churn-Dashboard)
 2. Call Center Solution
 3. Employee Diversity & Inclusive for HR
 
