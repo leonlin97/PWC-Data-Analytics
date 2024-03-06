@@ -14,7 +14,7 @@ Key takeaway from this projects are:
 - Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
 
-# Customer Retention and Churn Dashboard
+# Task 1: Customer Retention and Churn Dashboard
 This task aims to create a comprehensive dashboard focused on customer retention for a telecom company. The dashboard will aim to provide actionable insights in a user-friendly format, enabling effective decision-making and strategic planning to enhance customer retention efforts.
 
 ![image](https://github.com/leonlin97/PWC-Data-Analytics/assets/142073522/956b81e0-1c9e-4770-a210-be79dd204c7d)
@@ -50,7 +50,7 @@ I have gathered some insights and recommendations that I would like to share wit
 ![image](https://github.com/leonlin97/PWC-Data-Analytics/assets/142073522/287afdc0-6edd-448c-ab68-76653890241e)
 ![image](https://github.com/leonlin97/PWC-Data-Analytics/assets/142073522/493b0b92-4365-4f6c-bcd5-52483f7dc03e)
 
-# Call Center Solution
+# Task 2: Call Center Solution
 
 The task is to design a Power BI dashboard for PhoneNow's Call Centre Manager to provide a clear visualization of critical KPIs like customer satisfaction, call volume, and agent performance, aiming to facilitate data-driven discussions with management.
 
@@ -71,7 +71,7 @@ I have gathered some insights and recommendations that I would like to share wit
 - **Follow-up on Unresolved Calls:** Implement a system to follow up with customers who had their calls answered but not resolved, ensuring their issues are addressed.
   
 
-# Employment Diversity & Inclusion
+# Task 3: Employment Diversity & Inclusion
 
 PwC Switzerland has been tasked to assist a telecom client in advancing gender balance within their executive management. Despite efforts, progress is stagnant, prompting a need for our expertise in diversity and inclusion, which we regard as essential for business success and innovation. The goal is to transform the inclusive culture into tangible results, addressing the practical hurdles to truly harness the benefits of a diverse workforce.
 
