@@ -4,8 +4,8 @@ This projecy used the dataset on **Forge - PwC Switzerland Power BI Job Simulati
 
 Three areas are included:
 1. [Customer Retention and Churn](#Task-1-Customer-Retention-and-Churn-Dashboard)
-2. Call Center Solution
-3. Employee Diversity & Inclusive for HR
+2. [Call Center Solution](Task-2-Call-Center-Solution)
+3. [Employee Diversity & Inclusive for HR](Task-3-Employment-Diversity-Inclusion)
 
 Key takeaway from this projects are:
 - Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
