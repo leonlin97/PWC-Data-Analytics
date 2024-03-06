@@ -1,6 +1,6 @@
 # PWC Data Analytics
 
-This projecy used the dataset on **Forge - PwC Switzerland Power BI Job Simulation** to perform data analysis using **Power BI**.
+This project used the dataset on **Forge - PwC Switzerland Power BI Job Simulation** to perform data analysis using **Power BI**.
 
 Three areas are included:
 1. **[Customer Retention and Churn](#Task-1-Customer-Retention-and-Churn-Dashboard)**
